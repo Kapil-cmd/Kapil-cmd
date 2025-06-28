@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapil-cmd" alt="kapil-cmd" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Loan Management and prediction System**
 
 - 🌱 I’m currently learning **Advance DSA, Algorithm and Machine Learning.**
 
